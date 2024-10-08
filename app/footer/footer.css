@@ -1,0 +1,29 @@
+.footer {
+    background-color: #333;
+    color: white;
+    padding: 1.5rem 0;
+    text-align: center;
+  }
+  
+  .footer-content p {
+    margin: 0;
+    padding-bottom: 0.5rem;
+  }
+  
+  .social-links {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+  }
+  
+  .social-links a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .social-links a:hover {
+    color: #f0a500;
+  }
+  
